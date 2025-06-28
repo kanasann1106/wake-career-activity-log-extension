@@ -5,7 +5,6 @@
   "description": "WAKE Careerのアクティビティログをより簡単に登録する拡張機能",
   "permissions": [
     "activeTab",
-    "storage",
     "tabs"
   ],
   "host_permissions": [
