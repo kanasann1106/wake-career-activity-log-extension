@@ -2,6 +2,8 @@
 
 WAKE Careerのアクティビティログに、Web記事を簡単に登録するためのChrome拡張機能です。
 
+拡張機能：https://chromewebstore.google.com/detail/dkcldehbbbpobimocmnliepbjkaeogac?utm_source=item-share-cb
+
 ## 機能
 
 - 現在のページ情報（タイトル、URL）を自動取得
