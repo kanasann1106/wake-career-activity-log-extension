@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "かんたんアクティビティログ登録",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WAKE Careerのアクティビティログをより簡単に登録する拡張機能",
   "permissions": [
     "activeTab",
